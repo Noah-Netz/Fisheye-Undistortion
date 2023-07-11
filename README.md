@@ -62,5 +62,3 @@ Note: The code includes options for working with left and right cameras. Modify 
 Please adjust the code as needed to suit your specific requirements and camera setup.
 
 ---
-
-Please modify and enhance the README file further to provide any additional information, updates, or acknowledgments related to the Fisheye Undistortion code.
